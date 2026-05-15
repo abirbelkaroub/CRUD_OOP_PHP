@@ -36,7 +36,7 @@ if (isset($_POST['submit_todo'])) {
 
     ?>
 
-        <h6><?php echo $todo['todoName']; ?></h6>
+        <h5><?php echo $todo['todoName']; ?></h5>
 
     <?php
     }
